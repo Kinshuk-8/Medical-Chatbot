@@ -4,8 +4,8 @@
   "description": "Medical Symptom Analaysis chatbot",
   "main": "server/app.js",
 "scripts": {
-    "start": "node server/app.js"
-  },
+  "start": "node server/app.js"
+},
   "author": "Kinshuk Maddineni",
   "license": "ISC",
   "dependencies": {
