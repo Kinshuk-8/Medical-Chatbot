@@ -1,0 +1,16 @@
+{
+  "name": "medical-chatbot",
+  "version": "1.0.0",
+  "description": "Medical Symptom Analaysis chatbot",
+  "main": "app.js",
+"scripts": {
+    "start": "node server/app.js"
+  },
+  "author": "Kinshuk Maddineni",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
